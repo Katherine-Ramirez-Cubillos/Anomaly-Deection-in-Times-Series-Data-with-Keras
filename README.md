@@ -1,4 +1,4 @@
-# Anomaly-Deection-in-Times-Series-Data-with-Keras
+# Anomaly-Detection-in-Times-Series-Data-with-Keras
 This repository is the product of the Coursera Project Network called Anomaly Detection in Time Series Data with Keras, teaching by professor Snehan Kekre
 
 The script develops an anomaly detection model using deep learning. 
